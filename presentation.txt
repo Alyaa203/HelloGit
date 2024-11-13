@@ -2,3 +2,5 @@ nom : saab
 age : 21
 sexe : feminin
 taille : 164
+couleur: noir 
+naissance: Syrie 
